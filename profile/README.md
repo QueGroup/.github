@@ -25,9 +25,9 @@ Rest assured that we are doing everything possible to provide a quality and reli
 
 
 ### Useful resources 👩‍💻
-- [Discord Server](https://)
-- [Telegram Channel](https://)
-- [Boosty](https://)
+- [Discord Server](https://discord.gg/7y5ybra9MQ)
+- [Telegram Channel](https://t.me/que_group)
+- [Boosty](https://boosty.to/quegroup)
 
 We use these platforms to connect with our community, share updates and news about our projects, and provide a space for discussion and collaboration. We welcome anyone interested in our work to join us on these channels!
 
