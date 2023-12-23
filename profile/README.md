@@ -41,21 +41,4 @@ We use these platforms to connect with our community, share updates and news abo
 
 We believe that having fun and enjoying our work is just as important as delivering quality products and services to our users.
 
-### Contribution guidelines 🌈 
-
-Thank you for considering contributing to our project! We welcome all contributions that help improve the project. Here
-are some guidelines to follow:
-
-1. Fork the repository you wish to contribute to.
-2. Create a new branch for your changes. Be sure to give your branch a descriptive name that summarizes the changes you
-   are making.
-3. Make your changes in the new branch. Please ensure that your changes adhere to our coding style and any other
-   guidelines specific to the project.
-4. Commit your changes and write a clear and concise commit message that describes the changes you've made.
-5. Push your changes to your branch on your forked repository.
-6. Create a pull request to merge your changes into the original repository. Be sure to describe the changes you've made
-   and why they are valuable.
-
-If your contribution is accepted, it may be reviewed and edited by the project maintainers to ensure quality and
-consistency with the project's goals. Thank you for your contribution!
-
+And if you decide to make a contribution, thank you for choosing to contribute to our project! We welcome all contributions that help to improve the project.
